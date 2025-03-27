@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m diving deep into the world of IT, expanding my technical skills, and pushing myself to build, break, and learn something new every day!
+- 👯 I’m looking to collaborate on web applications that help solve real-world problems and where I can learn and contribute.
+- ⚡ Fun fact: My first program was "Hello, World!" in Python, and I was amazed that it worked.
+
 <!--
 **ilona22002/ilona22002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
